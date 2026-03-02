@@ -24,4 +24,4 @@ Quality is not an effect. It’s a process.
 ## Contact
 
 Projects and selected work will be added gradually.  
-For inquiries: **info@wyrlight.com**
+For inquiries: **	studio@wyrlight.com**
