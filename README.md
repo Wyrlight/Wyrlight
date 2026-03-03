@@ -2,7 +2,7 @@
 # Wyrlight
 
 <p align="center">
-  <img src="Wyrlight.jpg" alt="Wyrlight Logo" width="500">
+  <img src="Wyrlight.jpg" alt="Wyrlight Logo" width="250">
 </p>
 
 <p align="center">
