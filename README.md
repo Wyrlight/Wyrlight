@@ -2,7 +2,7 @@
 # Wyrlight
 
 <p align="center">
-  <img src="https://wyrlight.com/wp-content/uploads/2024/01/wyrlight-logo.png" alt="Wyrlight Logo" width="200">
+  <img src="https://wyrlight.com/wp-content/uploads/2024/01/wyrlight-logo.png" alt="Wyrlight Logo" width="250">
 </p>
 
 <p align="center">
@@ -14,21 +14,24 @@
 
 ### 🌿 Direction
 Wyrlight brings together retro outdoor vibes and clean line art:
-- **Clean lines** and a modest aesthetic.
-- **Technical precision** and intentional simplicity.
-- **Digital art**, visuals, and products that don't shout – they endure.
+* **Clean lines** and a modest aesthetic.
+* **Technical precision** and intentional simplicity.
+* **Digital art**, visuals, and products that don't shout – they endure.
 
 ### 🎨 Portfolio & Creations
-My work ranges from minimalist apparel designs to complete visual concepts, all tailored for a global audience.
+My work ranges from minimalist apparel designs to complete visual concepts, tailored for a global audience.
 
-- [🌐 Official Website](https://wyrlight.com/)
-- [🖼️ Digital Portfolio](https://sites.google.com/view/wyrlight-portfolio/)
-- [🛒 Etsy Studio](https://www.etsy.com/shop/WyrlightStudio)
+* [🌐 Official Website](https://wyrlight.com/)
+* [🖼️ Digital Portfolio](https://sites.google.com/view/wyrlight-portfolio/)
+* [🛒 Etsy Studio](https://www.etsy.com/shop/WyrlightStudio)
 
 ### 🔗 Connect
-[![Pinterest](https://img.shields.io/badge/Pinterest-Wyrlight-red?style=flat-square&logo=pinterest)](https://pinterest.com/wyrlight)
-[![Instagram](https://img.shields.io/badge/Instagram-Wyrlight-purple?style=flat-square&logo=instagram)](https://instagram.com/wyrlight)
-[![Vimeo](https://img.shields.io/badge/Vimeo-Wyrlight-blue?style=flat-square&logo=vimeo)](https://vimeo.com/wyrlight)
+<p align="left">
+  <a href="https://facebook.com/wyrlight"><img src="https://img.shields.io/badge/Facebook-Wyrlight-blue?style=flat-square&logo=facebook" alt="Facebook"></a>
+  <a href="https://pinterest.com/wyrlight"><img src="https://img.shields.io/badge/Pinterest-Wyrlight-red?style=flat-square&logo=pinterest" alt="Pinterest"></a>
+  <a href="https://instagram.com/wyrlight"><img src="https://img.shields.io/badge/Instagram-Wyrlight-purple?style=flat-square&logo=instagram" alt="Instagram"></a>
+  <a href="https://vimeo.com/wyrlight"><img src="https://img.shields.io/badge/Vimeo-Wyrlight-blue?style=flat-square&logo=vimeo" alt="Vimeo"></a>
+</p>
 
 ---
 
