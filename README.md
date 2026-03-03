@@ -19,20 +19,16 @@ Wyrlight brings together retro outdoor vibes and clean line art:
 ### 🎨 Portfolio & Creations
 My work ranges from minimalist apparel designs to complete visual concepts, tailored for a global audience.
 
----
-
 * [🌐 Official Website](https://wyrlight.com/)
 * [🖼️ Digital Portfolio](https://sites.google.com/view/wyrlight-portfolio/)
 * [🛒 Etsy Studio](https://www.etsy.com/shop/WyrlightStudio)
 
-  ---
-
 ### 🔗 Connect
 <p align="left">
-  <a href="https://facebook.com/wyrlight"><img src="https://img.shields.io/badge/Facebook-Wyrlight-blue?style=flat-square&logo=facebook" alt="Facebook"></a>
-  <a href="https://instagram.com/wyrlight"><img src="https://img.shields.io/badge/Instagram-Wyrlight-purple?style=flat-square&logo=instagram" alt="Instagram"></a>
-  <a href="https://pinterest.com/wyrlight"><img src="https://img.shields.io/badge/Pinterest-Wyrlight-red?style=flat-square&logo=pinterest" alt="Pinterest"></a>
-  <a href="https://vimeo.com/wyrlight"><img src="https://img.shields.io/badge/Vimeo-Wyrlight-blue?style=flat-square&logo=vimeo" alt="Vimeo"></a>
+  <a href="https://facebook.com/wyrlight"><img src="https://img.shields.io/badge/Facebook-000000?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+  <a href="https://instagram.com/wyrlight"><img src="https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://pinterest.com/wyrlight"><img src="https://img.shields.io/badge/Pinterest-000000?style=flat-square&logo=pinterest&logoColor=white" alt="Pinterest"></a>
+  <a href="https://vimeo.com/wyrlight"><img src="https://img.shields.io/badge/Vimeo-000000?style=flat-square&logo=vimeo&logoColor=white" alt="Vimeo"></a>
 </p>
 
 ---
