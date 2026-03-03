@@ -19,6 +19,8 @@ Wyrlight brings together retro outdoor vibes and clean line art:
 ### 🎨 Portfolio & Creations
 My work ranges from minimalist apparel designs to complete visual concepts, tailored for a global audience.
 
+---
+
 * [🌐 Official Website](https://wyrlight.com/)
 * [🖼️ Digital Portfolio](https://sites.google.com/view/wyrlight-portfolio/)
 * [🛒 Etsy Studio](https://www.etsy.com/shop/WyrlightStudio)
