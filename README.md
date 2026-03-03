@@ -2,7 +2,7 @@
 # Wyrlight
 
 <p align="center">
-  <img src="https://wyrlight.com/wp-content/uploads/2024/01/wyrlight.jpg" alt="Wyrlight" width="500">
+  <img src="wyrlight.jpg" alt="Wyrlight Logo" width="250">
 </p>
 
 <p align="center">
