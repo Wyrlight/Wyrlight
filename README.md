@@ -23,6 +23,8 @@ My work ranges from minimalist apparel designs to complete visual concepts, tail
 * [🖼️ Digital Portfolio](https://sites.google.com/view/wyrlight-portfolio/)
 * [🛒 Etsy Studio](https://www.etsy.com/shop/WyrlightStudio)
 
+  ---
+
 ### 🔗 Connect
 <p align="left">
   <a href="https://facebook.com/wyrlight"><img src="https://img.shields.io/badge/Facebook-Wyrlight-blue?style=flat-square&logo=facebook" alt="Facebook"></a>
