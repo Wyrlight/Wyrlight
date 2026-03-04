@@ -1,6 +1,8 @@
 
+# Wyrlight is a minimalist print-on-demand apparel and digital design studio.
+
 <p align="center">
-  <img src="Wyrlight.jpg" alt="Wyrlight Logo" width="250">
+  <img src="./Wyrlight.jpg" alt="Wyrlight Logo" width="250">
 </p>
 
 <p align="center">
@@ -27,10 +29,10 @@ My work ranges from minimalist apparel designs to complete visual concepts, tail
 
 ### 🔗 Connect
 <p align="left">
-  <a href="https://facebook.com/wyrlight"><img src="https://img.shields.io/badge/Facebook-000000?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-  <a href="https://instagram.com/wyrlight"><img src="https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://pinterest.com/wyrlight"><img src="https://img.shields.io/badge/Pinterest-000000?style=flat-square&logo=pinterest&logoColor=white" alt="Pinterest"></a>
-  <a href="https://vimeo.com/wyrlight"><img src="https://img.shields.io/badge/Vimeo-000000?style=flat-square&logo=vimeo&logoColor=white" alt="Vimeo"></a>
+  <a href="https://facebook.com/wyrlight"><img src="https://img.shields.io/badge/Facebook-ffffff?style=for-the-badge&logo=facebook&logoColor=000000" alt="Facebook"></a>
+  <a href="https://instagram.com/wyrlight"><img src="https://img.shields.io/badge/Instagram-ffffff?style=for-the-badge&logo=instagram&logoColor=000000" alt="Instagram"></a>
+  <a href="https://pinterest.com/wyrlight"><img src="https://img.shields.io/badge/Pinterest-ffffff?style=for-the-badge&logo=pinterest&logoColor=000000" alt="Pinterest"></a>
+  <a href="https://vimeo.com/wyrlight"><img src="https://img.shields.io/badge/Vimeo-ffffff?style=for-the-badge&logo=vimeo&logoColor=000000" alt="Vimeo"></a>
 </p>
 
 ---
