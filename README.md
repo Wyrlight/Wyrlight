@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <strong>Minimalist digital design shaped by Nordic calm and quiet precision.</strong><br>
-  Focusing on clean forms, balanced rhythms, and work that is built to last.
+  <h2>Minimalist digital design shaped by Nordic calm and quiet precision.</h2>
+  <h3>Focusing on clean forms, balanced rhythms, and work that is built to last.</h3>
 </p>
 
 ---
@@ -18,14 +18,16 @@ Wyrlight brings together retro outdoor vibes and clean line art:
 * **Technical precision** and intentional simplicity.
 * **Digital art**, visuals, and products that don't shout – they endure.
 
+---
+
 ### 🎨 Portfolio & Creations
 My work ranges from minimalist apparel designs to complete visual concepts, tailored for a global audience.
 
----
+* [→ Wyrlight Home](https://wyrlight.com/)
+* [→ Wyrlight Portfolio](https://sites.google.com/view/wyrlight-portfolio/)
+* [→ Wyrlight Etsy Shop](https://www.etsy.com/shop/WyrlightStudio)
 
-* [🌐 Official Website](https://wyrlight.com/)
-* [🖼️ Digital Portfolio](https://sites.google.com/view/wyrlight-portfolio/)
-* [🛒 Etsy Studio](https://www.etsy.com/shop/WyrlightStudio)
+---
 
 ### 🔗 Connect
 <p align="left">
