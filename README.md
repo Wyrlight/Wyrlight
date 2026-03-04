@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <h2>Minimalist digital design shaped by Nordic calm and quiet precision.</h2>
-  <h3>Focusing on clean forms, balanced rhythms, and work that is built to last.</h3>
+  <b>Minimalist digital design shaped by Nordic calm and quiet precision.</b><br>
+  <i>Focusing on clean forms, balanced rhythms, and work that is built to last.</i>
 </p>
 
 ---
