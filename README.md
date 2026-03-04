@@ -2,7 +2,7 @@
 # Wyrlight is a minimalist print-on-demand apparel and digital design studio.
 
 <p align="center">
-  <img src="Images/Wyrlight.png" alt="Wyrlight Logo" width="250">
+  <img src="Images/Wyrlight.png" alt="Wyrlight - Nordic Peace Inspired Design Studio" width="250">
 </p>
 
 <p align="center">
