@@ -47,7 +47,7 @@ My work ranges from minimalist apparel designs to complete visual concepts, tail
 ### ✦ Current Focus
 
 <p align="center">
-  <img src="wyrlight-current-focus.png" alt="Current Project" width="800">
+  <img src="Images/wyrlight-current-focus.png" alt="Current Project" width="800">
   <br>
   <em>Exploring minimalist nature-inspired line art for the upcoming collection.</em>
 </p>
