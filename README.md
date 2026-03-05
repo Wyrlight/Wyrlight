@@ -42,6 +42,30 @@ My work ranges from minimalist apparel designs to complete visual concepts, tail
 
 ---
 
+### ✦ Core Expertise
+
+* **Digital Brand Identity** – Clean, intentional, and Nordic-inspired.
+* **Custom Apparel Design** – Minimalist concepts for print-on-demand.
+* **Visual Storytelling** – Combining "Nordic Peace" with modern aesthetics.
+
+---
+
+### 📁 Portfolio Highlights
+
+| Category | Style focus | Link |
+| :--- | :--- | :--- |
+| **Apparel** | Minimalist / Line-Art | [View Collection](https://wyrlight.com/) |
+| **Digital Art** | Nordic Nature | [See Portfolio](https://wyrlight.com/portfolio) |
+| **Custom Work** | Bespoke Design | [Contact Us](https://wyrlight.com/contact) |
+
+---
+
+<p align="center">
+  Wyrlight blends minimalist themes, retro outdoor vibes, and clean line art into original, print-ready designs.
+</p>
+
+---
+
 <p align="center">
   <em>Wyrlight blends minimalist themes, retro outdoor vibes, and clean line art into original, print-ready designs.</em>
 </p>
