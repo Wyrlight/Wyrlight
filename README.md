@@ -35,12 +35,12 @@ Wyrlight brings together retro outdoor vibes and clean line art with a focus on:
 
 My work ranges from minimalist apparel designs to complete visual concepts, tailored for a global audience.
 
-| Category | Style Focus | Link |
+| Category | Focus | Action |
 | :--- | :--- | :--- |
-| **Apparel** | Minimalist / Line-Art | [View Collection](https://wyrlight.com/) |
-| **Full Portfolio** | Visual Concepts | [Google Sites Portfolio](https://sites.google.com/view/wyrlight-portfolio/) |
-| **Etsy Shop** | Print-on-Demand | [Shop Now](https://www.etsy.com/shop/WyrlightStudio) |
-| **Custom Work** | Bespoke Design | [Contact Us](https://wyrlight.com/contact) |
+| **Apparel** | Minimalist | [View Store](https://wyrlight.com/) |
+| **Portfolio** | Full Collection | [Open Site](https://sites.google.com/view/wyrlight-portfolio/) |
+| **Etsy Shop** | Print-on-Demand | [Visit Shop](https://www.etsy.com/shop/WyrlightStudio) |
+| **Custom** | Bespoke Design | [Contact Us](https://wyrlight.com/contact) |
 
 ---
 
