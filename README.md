@@ -38,9 +38,9 @@ My work ranges from minimalist apparel designs to complete visual concepts, tail
 | Category | Focus | Action |
 | :--- | :--- | :--- |
 | **Apparel** | Minimalist | [View Store](https://wyrlight.com/) |
-| **Portfolio** | Full Collection | [Open Site](https://sites.google.com/view/wyrlight-portfolio/) |
+| **Portfolio** | Concepts | [Open Site](https://sites.google.com/view/wyrlight-portfolio/) |
 | **Etsy Shop** | Print-on-Demand | [Visit Shop](https://www.etsy.com/shop/WyrlightStudio) |
-| **Custom** | Bespoke Design | [Contact Us](https://wyrlight.com/contact) |
+| **Custom** | Bespoke | [Contact](https://wyrlight.com/contact) |
 
 ---
 
