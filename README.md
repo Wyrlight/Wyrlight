@@ -64,8 +64,4 @@ My work ranges from minimalist apparel designs to complete visual concepts, tail
   Wyrlight blends minimalist themes, retro outdoor vibes, and clean line art into original, print-ready designs.
 </p>
 
----
 
-<p align="center">
-  <em>Wyrlight blends minimalist themes, retro outdoor vibes, and clean line art into original, print-ready designs.</em>
-</p>
