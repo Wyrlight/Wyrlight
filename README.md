@@ -21,6 +21,14 @@
 
 ---
 
+### Licensing
+All design assets and files in this repository are provided under the **MIT License**. For more details, please refer to the [LICENSE](LICENSE) file.
+
+### Collaboration
+We are open to creative collaborations and professional inquiries. Please contact us through our website.
+
+---
+
 ### ✦ Core Expertise
 
 Wyrlight brings together retro outdoor vibes and clean line art with a focus on:
