@@ -1,10 +1,10 @@
 
-💎 SVG: Data as Art
+ SVG: Data as Art
 Minimalist design is not only visual — it is also about clean, structured data. SVG (Scalable Vector Graphics) plays an important role in Wyrlight’s workflow because it combines aesthetics and mathematics into a single, precise format.
 
 ---
 
-🎯 Why SVG?
+ Why SVG?
 SVG is not a pixel image. It is a mathematical description that the browser or device draws in real time.
 This gives several advantages:
 extremely small file sizes
@@ -15,7 +15,7 @@ For Wyrlight, this means control, precision, and long‑term reliability.
 
 ---
 
-🧩 SVG in the Workflow
+ SVG in the Workflow
 Every shape begins as a vector.
 Even if the final output becomes a PNG or a mockup, the source file is always text‑based geometry, not raster pixels.
 This document collects examples, concepts, and workflows that show how Wyrlight uses SVG as:
@@ -25,7 +25,7 @@ a reusable design component
 
 ---
 
-🧪 Technical Example (Plain SVG)
+ Technical Example (Plain SVG)
 Below is a pure SVG export from Inkscape.
 This “Hiking trail marker” concept demonstrates how vector data looks in its raw form.
 
