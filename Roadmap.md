@@ -1,22 +1,26 @@
-# Roadmap
+## Roadmap
 
-A quiet, incremental evolution of the Wyrlight ecosystem.  
-Small steps, long-term clarity.
+A quiet, incremental evolution of the Wyrlight ecosystem.
 
-## Upcoming
+Built through small improvements, thoughtful design and long-term consistency.
 
-- Add workflow notes (Inkscape → SVG → assets)
-- Add color calibration references for DTG
-- Add first reusable vector components (icons, markers, logos)
-- Expand internal documentation structure
+### Upcoming
 
-## Later
+* Document the creative workflow from concept to finished artwork
+* Develop practical color references for print-on-demand production
+* Build reusable vector assets and design elements
+* Expand project documentation and creative resources
 
-- Unified minimalist icon set (hiking, camping, fishing, nautical)
-- Brand notes and visual language guidelines
-- Export rules and file hygiene standards
+### Later
 
-## Ongoing
+* Create a unified collection of minimalist visual assets
+* Refine brand identity notes and visual language guidelines
+* Establish export standards and organizational best practices
+* Continue exploring new illustration styles and creative directions
 
-- Keep repository structure clean and intentional
-- Add small updates every few weeks to maintain project visibility
+### Ongoing
+
+* Keep the repository clean, organized and purposeful
+* Refine existing artwork and visual assets
+* Add small improvements and documentation updates over time
+* Maintain a steady pace of creative development
