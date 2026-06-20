@@ -36,16 +36,6 @@ Wyrlight brings together retro outdoor vibes and clean line art with a focus on:
 
 ---
 
-### About Wyrlight
-
-Wyrlight is an independent digital art and design project focused on minimalist vector graphics, graphic illustration and print-on-demand apparel artwork.
-
-Inspired by Nordic design principles, each piece emphasizes simplicity, clarity and strong visual balance. Artwork is created using a streamlined workflow built around vector design, SVG development and modern digital illustration techniques.
-
-The project explores outdoor themes, nature-inspired graphics, nautical concepts and clean symbolic design suitable for apparel, branding and visual storytelling.
-
----
-
 ### 📁 Portfolio Highlights
 
 My work ranges from minimalist apparel designs to complete visual concepts, tailored for a global audience.
