@@ -38,7 +38,7 @@ Wyrlight brings together retro outdoor vibes and clean line art with a focus on:
 
 ### 📁 Portfolio Highlights
 
-My work ranges from minimalist apparel designs to complete visual concepts, tailored for a global audience.
+Wyrlight creates minimalist vector graphics, Nordic-inspired illustration and print-on-demand apparel artwork.
 
 ### Links
 
