@@ -11,10 +11,11 @@
   <p><i>Inspired by Nordic Peace, focusing on clean lines and intentional simplicity.</i></p>
 
   <p align="center">
-    <a href="https://facebook.com/wyrlight"><img src="https://img.shields.io/badge/Facebook-ffffff?style=for-the-badge&logo=facebook&logoColor=000000" alt="Facebook"></a>
-    <a href="https://instagram.com/wyrlight"><img src="https://img.shields.io/badge/Instagram-ffffff?style=for-the-badge&logo=instagram&logoColor=000000" alt="Instagram"></a>
-    <a href="https://pinterest.com/wyrlight"><img src="https://img.shields.io/badge/Pinterest-ffffff?style=for-the-badge&logo=pinterest&logoColor=000000" alt="Pinterest"></a>
-    <a href="https://vimeo.com/wyrlight"><img src="https://img.shields.io/badge/Vimeo-ffffff?style=for-the-badge&logo=vimeo&logoColor=000000" alt="Vimeo"></a>
+      <a href="https://facebook.com/wyrlight"><img src="https://img.shields.io/badge/Facebook-ffffff?style=for-the-badge&logo=facebook&logoColor=000000" alt="Facebook"></a>
+      <a href="https://instagram.com/wyrlight"><img src="https://img.shields.io/badge/Instagram-ffffff?style=for-the-badge&logo=instagram&logoColor=000000" alt="Instagram"></a>
+      <a href="https://pinterest.com/wyrlight"><img src="https://img.shields.io/badge/Pinterest-ffffff?style=for-the-badge&logo=pinterest&logoColor=000000" alt="Pinterest"></a>
+      <a href="https://vimeo.com/wyrlight"><img src="https://img.shields.io/badge/Vimeo-ffffff?style=for-the-badge&logo=vimeo&logoColor=000000" alt="Vimeo"></a>
+      <a href="https://codepen.io/WyrlightStudio"><img src="https://img.shields.io/badge/CodePen-ffffff?style=for-the-badge&logo=codepen&logoColor=000000" alt="CodePen"></a>
   </p>
 
 </div>
