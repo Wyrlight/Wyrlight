@@ -1,14 +1,14 @@
 <div align="center">
 
-  <h1>Wyrlight is a minimalist print-on-demand apparel<br>and digital design studio.</h1>
+  <h1>Wyrlight is a minimalist design studio<br>focused on vector graphics and print-on-demand apparel.</h1>
 
   <br>
 
-  <img src="Images/Wyrlight.png" alt="Wyrlight - Nordic Peace Inspired Design Studio" width="250">
+  <img src="Images/Wyrlight.png" alt="Wyrlight minimalist Nordic-inspired design studio logo" width="250">
 
-  <h2>Minimalist custom clothing and digital design studio</h2>
-  
-  <p><i>Inspired by Nordic Peace, focusing on clean lines and intentional simplicity.</i></p>
+  <h2>Minimalist vector graphics & apparel design studio</h2>
+
+  <p><i>Inspired by Nordic minimalism, focusing on clarity, balance and intentional simplicity.</i></p>
 
   <p align="center">
       <a href="https://facebook.com/wyrlight"><img src="https://img.shields.io/badge/Facebook-ffffff?style=for-the-badge&logo=facebook&logoColor=000000" alt="Facebook"></a>
@@ -23,47 +23,46 @@
 ---
 
 ### Licensing
-All design assets and files in this repository are provided under the **MIT License**. For more details, please refer to the [LICENSE](LICENSE) file.
+All design assets and files in this repository are provided under the **MIT License**. See the [LICENSE](LICENSE) file for details.
 
 ---
 
-### ✦ Core Expertise
+### ✦ Core Focus
 
-Wyrlight brings together retro outdoor vibes and clean line art with a focus on:
+Wyrlight combines minimalist visual design with structured vector workflows:
 
-* **Digital Brand Identity** – Clean, intentional, and Nordic-inspired.
-* **Custom Apparel Design** – Minimalist concepts for print-on-demand.
-* **Visual Storytelling** – Combining "Nordic Peace" with modern aesthetics.
+* **Digital Brand Identity** – Clean, Nordic-inspired, long-term consistent visual system.
+* **Vector Illustration** – Original SVG-based graphics optimized for web and print.
+* **Print-on-Demand Apparel** – Minimalist artwork designed for scalable product use.
+* **Visual Storytelling** – Simple forms, strong composition, intentional design language.
 
 ---
 
-### 📁 Portfolio Highlights
+### 📁 Portfolio Overview
 
-Wyrlight creates minimalist vector graphics, Nordic-inspired illustration and print-on-demand apparel artwork.
+Wyrlight produces minimalist vector graphics, Nordic-inspired illustrations and print-on-demand apparel artwork.
+
+---
 
 ### Links
 
-- **Apparel** — Minimalist designs  
-  [View Store](https://wyrlight.com/)
+- **Main Site** — Minimalist design studio  
+  [https://wyrlight.com](https://wyrlight.com)
 
-- **Portfolio** — Visual concepts  
-  [Open Site](https://sites.google.com/view/wyrlight-portfolio/)
+- **Portfolio** — Visual concepts & experiments  
+  [https://sites.google.com/view/wyrlight-portfolio/](https://sites.google.com/view/wyrlight-portfolio/)
 
-- **Etsy Shop** — Print-on-demand  
-  [Visit Shop](https://www.etsy.com/shop/WyrlightStudio)
-
-- **Custom Work** — Bespoke design  
-  [Contact](https://wyrlight.com/contact)
-
+- **CodePen** — Interactive design experiments  
+  [https://codepen.io/WyrlightStudio](https://codepen.io/WyrlightStudio)
 
 ---
 
 ### ✦ Current Focus
 
 <p align="center">
-  <img src="Images/wyrlight-current-focus.png" alt="Current Project" width="800">
+  <img src="Images/wyrlight-current-focus.png" alt="Current Wyrlight design focus preview" width="800">
   <br>
-  <em>Exploring minimalist nature-inspired line art for the upcoming collection.</em>
+  <em>Exploring minimalist vector systems and Nordic-inspired visual language for upcoming collections.</em>
 </p>
 
 ---
@@ -74,8 +73,7 @@ Wyrlight creates minimalist vector graphics, Nordic-inspired illustration and pr
 ---
 
 <p align="center">
-  Wyrlight blends minimalist themes, retro outdoor vibes, and clean line art into original, print-ready designs.
+  Wyrlight is a long-term minimalist design system focused on clarity, structure and consistency across digital and physical media.
   <br>
-  <small><em>Est. 2024 | Nordic Peace & Intentional Design</em></small>
+  <small><em>Est. 2024 | Nordic-inspired design system</em></small>
 </p>
-
