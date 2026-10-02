@@ -50,7 +50,7 @@ Wyrlight produces minimalist vector graphics, Nordic-inspired illustrations and 
   [https://wyrlight.com](https://wyrlight.com)
 
 - **Portfolio** — Visual concepts & experiments  
-  https://wyrlight.com/Portfolio/
+  https://wyrlight.com/portfolio/
 
 - **CodePen** — Interactive design experiments  
   [https://codepen.io/WyrlightStudio](https://codepen.io/WyrlightStudio)
